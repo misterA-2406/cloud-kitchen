@@ -55,7 +55,7 @@ export default function About() {
           >
             <div className="aspect-[4/5] rounded-2xl overflow-hidden shadow-2xl">
               <img 
-                src="https://images.unsplash.com/photo-1556910103-1c02745a30bf?auto=format&fit=crop&w=800&q=80" 
+                src="https://images.unsplash.com/photo-1577106263724-2c8e03bfe9cf?auto=format&fit=crop&w=800&q=80" 
                 alt="Chef Plating" 
                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
               />

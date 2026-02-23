@@ -10,7 +10,7 @@ export default function Hero() {
       {/* Cinematic Background */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?auto=format&fit=crop&w=1920&q=80" 
+          src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1920&q=80" 
           alt="Gourmet Dining Experience" 
           className="w-full h-full object-cover opacity-50 scale-105 animate-subtle-zoom"
         />

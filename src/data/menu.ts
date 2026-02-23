@@ -17,7 +17,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 249,
     isVeg: true,
     category: 'Starters',
-    image: 'https://images.unsplash.com/photo-1541529086526-db283c563270?auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1604382354936-07c5d9983bd3?auto=format&fit=crop&w=800&q=80'
   },
   {
     id: '2',
@@ -26,7 +26,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 299,
     isVeg: false,
     category: 'Starters',
-    image: 'https://images.unsplash.com/photo-1527477396000-e27163b481c2?auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1567620832903-9fc6debc209f?auto=format&fit=crop&w=800&q=80'
   },
   {
     id: '3',
@@ -35,7 +35,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 229,
     isVeg: true,
     category: 'Starters',
-    image: 'https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?auto=format&fit=crop&w=800&q=80'
   },
   {
     id: '4',
@@ -44,7 +44,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 279,
     isVeg: false,
     category: 'Starters',
-    image: 'https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=800&q=80'
   },
   {
     id: '5',
@@ -53,7 +53,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 199,
     isVeg: true,
     category: 'Starters',
-    image: 'https://images.unsplash.com/photo-1573140247632-f84660f67627?auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1619531040576-f398d7407619?auto=format&fit=crop&w=800&q=80'
   },
 
   // Main Course
@@ -73,7 +73,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 379,
     isVeg: false,
     category: 'Main Course',
-    image: 'https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?auto=format&fit=crop&w=800&q=80'
   },
   {
     id: '8',
@@ -91,7 +91,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 369,
     isVeg: false,
     category: 'Main Course',
-    image: 'https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1606471191009-63994c53433b?auto=format&fit=crop&w=800&q=80'
   },
   {
     id: '10',
@@ -111,7 +111,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 349,
     isVeg: true,
     category: 'Biryani & Bowls',
-    image: 'https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=800&q=80'
   },
   {
     id: '12',
@@ -138,7 +138,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 379,
     isVeg: false,
     category: 'Biryani & Bowls',
-    image: 'https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=800&q=80'
   },
 
   // Combos
@@ -149,7 +149,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 449,
     isVeg: false,
     category: 'Combos',
-    image: 'https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1631452180519-c014fe946bc7?auto=format&fit=crop&w=800&q=80'
   },
   {
     id: '16',
